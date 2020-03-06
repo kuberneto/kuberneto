@@ -1,0 +1,2 @@
+# kuberneto
+Desktop kubernetes client
